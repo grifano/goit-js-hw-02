@@ -2,9 +2,9 @@
 
 # Java Script
 
-## Module 1: Variable, basic data types, functions
+## Module 2: Variable, basic data types, functions
 
-### Homework 1
+### Homework 2
 
 ---
 
